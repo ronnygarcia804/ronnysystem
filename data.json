@@ -1,0 +1,63 @@
+{
+  "inventory": [
+    {
+      "id": 101,
+      "name": "Tijeras de Precisión",
+      "price": 45.99,
+      "stock": 15
+    },
+    {
+      "id": 102,
+      "name": "Gel Fijador 250ml",
+      "price": 8.5,
+      "stock": 120
+    },
+    {
+      "id": 103,
+      "name": "Champú Hidratante",
+      "price": 15,
+      "stock": 80
+    },
+    {
+      "id": 104,
+      "name": "Crema para Afeitar",
+      "price": 12.99,
+      "stock": 60
+    },
+    {
+      "id": 105,
+      "name": "Toalla Desechable x100",
+      "price": 20,
+      "stock": 30
+    },
+    {
+      "id": 106,
+      "name": "Laca Capilar Mega",
+      "price": 9.99,
+      "stock": 90
+    }
+  ],
+  "sales": [
+    {
+      "id": 1700000000000,
+      "date": "2025-12-01T10:00:00.000Z",
+      "subtotal": 23.49,
+      "tax": 4.23,
+      "total": 27.72,
+      "items": [
+        {
+          "id": 102,
+          "name": "Gel Fijador 250ml",
+          "price": 8.5,
+          "quantity": 2
+        },
+        {
+          "id": 104,
+          "name": "Crema para Afeitar",
+          "price": 12.99,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
